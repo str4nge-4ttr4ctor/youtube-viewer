@@ -1,27 +1,82 @@
 .search-bar {
-  margin: 20px;
-  text-align: center;
+    margin: 20px;
+    text-align: center;
 }
 
 .search-bar input {
-  width: 75%;
+    width: 75%;
 }
 
 .video-item img {
-  max-width: 64px;
+    max-width: 64px;
 }
 
 .video-detail .details {
-  margin-top: 10px;
-  padding: 10px;
-  border: 1px solid #ddd;
-  border-radius: 4px;
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
 }
 
 .list-group-item {
-  cursor: pointer;
+    cursor: pointer;
 }
 
 .list-group-item:hover {
-  background-color: #eee;
+    background-color: #eee;
+}
+
+.comments {
+    margin: 20px;
+    display: block;
+}
+
+.comment {
+    margin-bottom: 20px;
+}
+
+.commentAuthorName {
+    margin-left: 10px;
+}
+
+.commentsTitle {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 1.6rem;
+    font-weight: 400;
+    line-height: 2rem;
+    color: rgb(13, 13, 13);
+}
+
+.errorMessage {
+    display: block;
+    margin-bottom: 20px;
+}
+
+.commentDate {
+    margin-left: 20px;
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.8rem;
+    color: gray;
+}
+
+.authorProfile {
+    border-radius: 50%;
+}
+
+.commentHeader {
+    margin-bottom: 2px;
+}
+
+.loadMoreButton {
+    display: flex;
+    justify-content: center;
+}
+
+.likeCount {
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.8rem;
+    color: gray;
 }

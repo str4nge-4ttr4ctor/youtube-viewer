@@ -1,0 +1,9 @@
+{
+    "comments.commentsTitle": "Comments",
+    "comments.button.loadMore": "Load More...",
+    "comments.loading": "Loading... Please wait...",
+    "comments.button.reload": "Reload",
+    "comments.button.loading": "Loading...",
+    "comments.noComments": "No Comments",
+    "comments.likeCount": "{count, number} {count, plural, one {like} other {likes}}"
+}
