@@ -1,10 +1,10 @@
-This is a testing starter project using the Youtube API 
+This is a testing starter project using the Youtube API
 
 ## Prerequisites
 
-1. Add your own personal youtube API Key in App.js ```const API_KEY = "ADD_API_KEY_HERE";```
+1. Add your own personal youtube API Key in config.json ```"API_KEY": "ADD_API_KEY_HERE"```
     you can generate one from the [Google Developer Console](https://console.developers.google.com/)
- 
+
 
 ## Available Scripts
 
